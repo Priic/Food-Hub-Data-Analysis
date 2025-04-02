@@ -5,7 +5,8 @@ Image by Freepik
 
 ### Context
 
-The number of restaurants in New York is increasing day by day. Lots of students and busy professionals rely on those restaurants due to their hectic lifestyles. Online food delivery service is a great option for them. It provides them with good food from their favorite restaurants. 
+The number of restaurants in New York is increasing day by day. Lots of students and busy professionals rely on those restaurants due to their hectic lifestyles. Online food delivery service is a great option for them. It provides them with good food from their favorite restaurants. <br>
+
 The **`Food hub`** is a **`food aggregator company`** which provides **`online food delivery services`** through their smartphone app. The app has **`access to multiple restaurants`** and help their millions of customers to place order from their favorite restaurant and have them at their doorsteps in no time.
 The dataset we have analyzed here, provides information about the different orders made by registered customers through their online portal from multiple restaurants.
 The data contains information about approx. **`2k different orders from 178 restaurants`** providing varieties of flavorful good foods from **`14 different cuisines`**. The data also contains details about food preparation time and the time taken to deliver food to its customer on weekday & weekend.
