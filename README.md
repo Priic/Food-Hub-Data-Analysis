@@ -12,7 +12,7 @@ The dataset we have analyzed here, provides information about the different orde
 The data contains information about approx. **`2k different orders from 178 restaurants`** providing varieties of flavorful good foods from **`14 different cuisines`**. The data also contains details about food preparation time and the time taken to deliver food to its customer on weekday & weekend.
 
 ### Objective
-The **`food hub`** has stored the data of the different orders made by the registered customers in their **`online portal`**. The main idea here is to understand the demand of different restaurants based on customers preferences as in what they order, when they order, and from where they order most often. This will also help them in enhancing their customer experience and boost company's revenue.
+The **`food hub`** has stored the data of the different orders made by the registered customers on their **`online portal`**. The main idea here is to understand the demand of different restaurants based on customers preferences as in what they order, when they order, and from where they order most often. This will also help them in enhancing their customer experience and boost company's revenue.
 
 ### Analysis Approach
 As a Data Scientist, I explored the dataset to understand its **`shape, size, data types, missing values, duplicates, and statistical summary`**. Conducted **`Exploratory Data Analysis (EDA)`** to identify patterns and extract actionable insights, focusing on restaurant demand based on customer preferences.
